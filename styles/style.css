@@ -1,0 +1,103 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+/* starting part of header  */
+/* starting part of header  */
+.top-banner{
+    background-repeat: no-repeat;
+}
+#heading-color{
+    color: #ffa500;
+}
+p{
+    color: #696969;
+    font-size: 20px;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+}
+button{
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 45px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+}
+.header-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.jhankar-vai img{
+    width: 490px;
+    cursor: pointer;
+}
+/* ending part of header  */
+/* ending part of header  */
+
+
+/* first section start  */
+/* first section start  */
+.first-section{
+   
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.jhonkar-vai2 img{
+    width: 486px;  cursor: pointer;
+}
+/* first section END  */
+/* first section END  */
+
+
+/* second section start  */
+/* second section start  */
+
+.second-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.second-section h3{   
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+/* second section end  */
+/* second section end  */
+
+/* web developer part start/ */
+/* web developer part start/ */
+#full-stack{
+    padding-left: 20px;
+    padding-right: 6px;
+    border-left: 11px solid ;
+    /* border-color: linear-gradient(180deg, lightsalmon, tomato);; */
+    border-image: linear-gradient(180deg, lightsalmon, gold
+    );
+    border-image-slice: 1;
+    box-shadow: 2px 2px 40px  black;
+    
+}
+    
+#baby-dev{padding-right: 6px;
+    padding-left: 20px;
+    
+    border-left: 11px solid ;
+    /* border-color: linear-gradient(180deg, lightsalmon, tomato);; */
+    border-image:  linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;box-shadow: 2px 2px 40px  black;
+}
+
